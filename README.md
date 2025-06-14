@@ -56,11 +56,11 @@ This project focuses on building a Convolutional Neural Network (CNN)-based mode
 - Classification Report (Precision, Recall, F1-Score)
 
 ## 🖼️ Sample Visualization (Confusion Matrix)
-[
+
 
 ![Image](https://github.com/user-attachments/assets/9b34fc8e-a76b-4d56-9604-6f9bb5dc08ec)
 
-](url)
+
 
 
 
