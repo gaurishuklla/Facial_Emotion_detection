@@ -60,6 +60,9 @@ This project focuses on building a Convolutional Neural Network (CNN)-based mode
 
 ![Image](https://github.com/user-attachments/assets/9b34fc8e-a76b-4d56-9604-6f9bb5dc08ec)
 
+## 🖼️ Real-Time Emotion Detection (Screenshots)
+
+
 
 
 
